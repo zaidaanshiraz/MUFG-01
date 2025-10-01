@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC,True Healthy,False Sick,False Healthy,True Sick
+XGBoost,86.7%,88.5%,82.1%,85.2%,91.0%,29,3,5,23
